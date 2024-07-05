@@ -4,7 +4,7 @@ package Day_1.Assignment;
 
 import java.util.Scanner;
 
-public class Greetings {
+public class Problem_2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Please enter your name :- ");

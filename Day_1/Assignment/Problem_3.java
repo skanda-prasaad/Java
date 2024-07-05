@@ -4,7 +4,7 @@ package Day_1.Assignment;
 
 import java.util.Scanner;
 
-public class Simple_intrest {
+public class Problem_3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("---Simple intrest--");

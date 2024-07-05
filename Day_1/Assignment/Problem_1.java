@@ -3,7 +3,7 @@ package Day_1.Assignment;
 
 import java.util.Scanner;
 
-public class evenOrodd {
+public class Problem_1 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Give a number to check whether it's a even or odd :-");
