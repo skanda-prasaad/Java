@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "do_while",
+            "request": "launch",
+            "mainClass": "Day_2.loops.do_while",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
             "name": "whle_loop",
             "request": "launch",
             "mainClass": "Day_2.loops.whle_loop",
