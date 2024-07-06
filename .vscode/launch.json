@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fibonaaci",
+            "request": "launch",
+            "mainClass": "Day_2.questions.fibonaaci",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
             "name": "Case_check",
             "request": "launch",
             "mainClass": "Day_2.questions.Case_check",
