@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Count_nums",
+            "request": "launch",
+            "mainClass": "Day_2.questions.Count_nums",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
             "name": "fibonaaci",
             "request": "launch",
             "mainClass": "Day_2.questions.fibonaaci",
