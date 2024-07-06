@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "for_loop",
+            "request": "launch",
+            "mainClass": "Day_2.loops.for_loop",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
