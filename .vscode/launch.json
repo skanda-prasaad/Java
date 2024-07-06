@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Problem_1",
+            "request": "launch",
+            "mainClass": "Day_1.Assignment.Problem_1",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Problem_2",
+            "request": "launch",
+            "mainClass": "Day_1.Assignment.Problem_2",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Problem_3",
+            "request": "launch",
+            "mainClass": "Day_1.Assignment.Problem_3",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Problem_4",
+            "request": "launch",
+            "mainClass": "Day_1.Assignment.Problem_4",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Problem_5",
+            "request": "launch",
+            "mainClass": "Day_1.Assignment.Problem_5",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Day_1.Main",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "TypeCasting",
+            "request": "launch",
+            "mainClass": "Day_1.TypeCasting",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "Day_1.input",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "primitives",
+            "request": "launch",
+            "mainClass": "Day_1.primitives",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "Day_1.sum",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "syntax",
+            "request": "launch",
+            "mainClass": "Day_2.conditionals.syntax",
+            "projectName": "Java_d2393852"
+        }
+    ]
+}
