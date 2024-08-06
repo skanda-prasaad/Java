@@ -1,4 +1,4 @@
-package Day_1;
+package Basics;
 
 public class primitives {
     public static void main(String[] args) {

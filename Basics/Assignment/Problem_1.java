@@ -1,5 +1,5 @@
 // Write a program to print whether a number is even or odd, also take input from the user.
-package Day_1.Assignment;
+package Basics.Assignment;
 
 import java.util.Scanner;
 

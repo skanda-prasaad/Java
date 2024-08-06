@@ -1,4 +1,4 @@
-package Day_2.questions;
+package Loops.questions;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Day_2.questions;
+package Loops.questions;
 
 public class reverse {
     public static void main(String[] args) {

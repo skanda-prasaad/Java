@@ -1,6 +1,6 @@
 // Q :- Print numbers from 0 to 5
 
-package Day_2.loops;
+package Loops.loops;
 
 import java.util.Scanner;
 

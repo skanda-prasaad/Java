@@ -1,4 +1,4 @@
-package Day_2.loops;
+package Loops.loops;
 
 public class do_while {
     public static void main(String[] args) {

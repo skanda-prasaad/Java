@@ -1,4 +1,4 @@
-package Day_2.conditionals;
+package Loops.conditionals;
 
 public class syntax {
     public static void main(String[] args) {

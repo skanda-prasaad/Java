@@ -1,6 +1,6 @@
 // Take 2 numbers as input and print the largest number.
 
-package Day_1.Assignment;
+package Basics.Assignment;
 
 import java.util.Scanner;
 
