@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "larger_num",
+            "request": "launch",
+            "mainClass": "Day_2.questions.larger_num",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
             "name": "Count_nums",
             "request": "launch",
             "mainClass": "Day_2.questions.Count_nums",
