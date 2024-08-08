@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "return_str",
+            "request": "launch",
+            "mainClass": "Function.return_str",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "Function.sum",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Loops.switchs.Main",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "Day_2.questions.reverse",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
             "name": "larger_num",
             "request": "launch",
             "mainClass": "Day_2.questions.larger_num",

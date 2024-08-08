@@ -5,8 +5,14 @@ import java.util.Scanner;
 public class sum {
     public static void main(String[] args) {
         // input of two numbers and print sum 
-        int ans = add2();
+        int ans = sum3(5,20);
         System.out.println("The sum value is " + ans);
+    }
+
+    // Pass the value of numbers when u are calling method in main()
+    static int sum3(int a, int b){
+        int c = a + b;
+        return c;
     }
 
     // return type -->
