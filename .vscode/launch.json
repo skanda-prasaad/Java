@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Change_Value",
+            "request": "launch",
+            "mainClass": "Function.Change_Value",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Swap_numbers",
+            "request": "launch",
+            "mainClass": "Function.Swap_numbers",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Passing_value",
+            "request": "launch",
+            "mainClass": "Function.Passing_value",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
             "name": "return_str",
             "request": "launch",
             "mainClass": "Function.return_str",
