@@ -14,3 +14,5 @@ public class Change_Value {
     static void change(int[] nums){
         nums[0] = 99;// if any changes is made to the object via ref variable,same objext will be changed.
 }
+
+}
