@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "Arrays.basic",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Question_2",
+            "request": "launch",
+            "mainClass": "Function.Questions.Question_2",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Question_1",
+            "request": "launch",
+            "mainClass": "Function.Questions.Question_1",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Function.Questions.Prime",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Function_Overloading",
+            "request": "launch",
+            "mainClass": "Function.Function_Overloading",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
             "name": "Change_Value",
             "request": "launch",
             "mainClass": "Function.Change_Value",
