@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "Basics.input",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "p1",
+            "request": "launch",
+            "mainClass": "pattern.p1",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Max_item",
+            "request": "launch",
+            "mainClass": "Arrays.Questions.Max_item",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Arrays.Questions.Swap",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "MultiArray_list",
+            "request": "launch",
+            "mainClass": "Arrays.MultiArray_list",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Array_list_eg",
+            "request": "launch",
+            "mainClass": "Arrays.Array_list_eg",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Col_not_fixed",
+            "request": "launch",
+            "mainClass": "Arrays.Col_not_fixed",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "Pass_in_func",
+            "request": "launch",
+            "mainClass": "Arrays.Pass_in_func",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
+            "name": "inputs",
+            "request": "launch",
+            "mainClass": "Arrays.inputs",
+            "projectName": "Java_d2393852"
+        },
+        {
+            "type": "java",
             "name": "basic",
             "request": "launch",
             "mainClass": "Arrays.basic",
